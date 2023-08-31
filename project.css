@@ -1,0 +1,9 @@
+
+.shop-contacts-list{
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+}
+.shop-contacts-list li a{
+  text-decoration: none;
+}
